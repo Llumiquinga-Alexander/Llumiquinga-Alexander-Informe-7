@@ -22,7 +22,7 @@ Objetivos específicos
 
 Márco teórico:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Llumiquinga-Alexander-Informe-7/blob/main/mapa1.png)
 
 ![](
 
