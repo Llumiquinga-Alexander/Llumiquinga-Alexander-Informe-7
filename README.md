@@ -10,15 +10,13 @@ Nombre del profesor: Darwin Omar Alulema Flores
 
 Objetivo:
 
-Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementación de mapas conceptuales, para así lograr resolver y mantener características de circuitos fundamentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
+Dominar los conocimientos relacionados a corriente ,voltaje alterno y capacitores, para dar solucion y mantener características de circuitos fundamentales.
 
 Objetivos específicos
 
-• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los de circuitos.
+Reconocer las caracteristicas principales y fundamemtales de corriente, capacitores en ambitos eléctricos y voltaje alterno.
 
-• Reconocer caracteristicas principales y fundamemtales de corriente ,voltaje alterno y capacitores en ambitos eléctricos.
-
-• Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
+Aplicar de una manera adecuada las formulas para dar solucion a los problemas planteados en los capitulos 13 y 14
 
 Márco teórico:
 
