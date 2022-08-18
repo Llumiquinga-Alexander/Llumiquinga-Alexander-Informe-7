@@ -183,7 +183,7 @@ R: Alguno de los devanados segundarios podrían estar en cortocircuito, o el vol
 
 Video
 
-https://www.youtube.com/watch?v=XimVPTPSs1Y
+https://www.youtube.com/watch?v=yvKZ0mCSxlM
 
 Conclusiones
 
